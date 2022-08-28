@@ -1,0 +1,23 @@
+
+.header{
+  min-height: 80vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
